@@ -5,7 +5,6 @@ import logging
 import csv 
 import re
 
-# d="https://www.tesco.com/groceries/en-GB/search?query={dettol}&sortBy=priceAscending&view=|PRODUCT|&offset=0&darkstoreId={59-62-south-bridge}"'
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
